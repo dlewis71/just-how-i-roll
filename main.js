@@ -29,16 +29,27 @@ const sortByNumber = function(arr) {
 /*******************
  * YOUR CODE BELOW *
  *******************/
+const prop = document.querySelector("#d6-rolls-mean")
+  .addEventListener("click", function() {
+})
+
+const die = document.querySelector("#d6-rolls-median")
+.addEventListener("click", function() {
+
+})
 
 
+const dice = document.querySelector("#d6-rolls-mode")
+  .addEventListener("click", function() {
 
-/*******************
- * EVENT LISTENERS *
- *******************/
+})
 
+const img = document.querySelector("d6-roll")
 
+const button = document.querySelector("#d6-button")
+.addEventListener("click", function() {
 
-
+})
 
 /******************
  * RESET FUNCTION *
